@@ -9,8 +9,4 @@ module SomeModule
       puts "#{__method__}: doing something"
     end
 
-    def method_3
-      puts "#{__method__}: doing something"
-    end
-
 end
