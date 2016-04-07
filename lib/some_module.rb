@@ -10,7 +10,7 @@ module SomeModule
     end
 
     def method_3
-      puts "#{__method__}: doing something"
+      puts "#{__method__}: doing something NEW"
     end
 
 end
